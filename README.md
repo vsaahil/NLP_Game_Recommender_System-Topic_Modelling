@@ -1,5 +1,5 @@
 # NLP_Game_Recommender_System-Topic_Modelling
-This project showcases application of NLP and Topic Modelling on user and critic reviews posted on MetaCritic to generate cross-genre game recommendations. Furthermore, an additional layer of recommendation for "hidden-gems" is also developed. (Games which have lesser critic/user reviews but have generally favourable responses). Please refer to the report, presentation deck and presentation video for detailed description.
+This project showcases application of NLP and Topic Modelling on user and critic reviews posted on MetaCritic to generate cross-genre game recommendations. Furthermore, an additional layer of recommendation for "hidden-gems" is also developed. (Games which have lesser critic/user reviews but have generally favourable responses). Please refer to the report and presentation deck for detailed description.
 
 ## Source of Data:
 The data has been scraped from the MetaCritic website, using "1_Scrapper-Metacritic and Data Preprocessing.ipynb" file
